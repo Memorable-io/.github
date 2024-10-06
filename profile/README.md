@@ -37,6 +37,10 @@ We strive to create a welcoming and inclusive environment. Please review our [Co
 
 For inquiries, collaborations, or feedback, please reach out to us at [memorable.io123@gmail.com](mailto:memorable.io123@gmail.com).
 
+## License
+
+This organization adopts the MIT License for all projects. See the [LICENSE](https://github.com/Memorable.io/.github/LICENSE) file for details.
+
 ---
 
 Thank you for visiting Memorable.io! We’re excited to share our journey with you and look forward to creating something remarkable together.
