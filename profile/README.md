@@ -39,7 +39,7 @@ For inquiries, collaborations, or feedback, please reach out to us at [memorable
 
 ## License
 
-This organization adopts the MIT License for all projects. See the [LICENSE](https://github.com/Memorable.io/.github/LICENSE) file for details.
+This organization adopts the MIT License for all projects. See the [LICENSE](https://github.com/Memorable-io/.github/LICENSE) file for details.
 
 ---
 
