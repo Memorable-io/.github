@@ -4,7 +4,7 @@ Welcome to **Memorable.io**, a collaborative organization created by a team of f
 
 ## 🌐 Website
 
-Visit our official website: [Memorable Website](https://memorable-io.github.io/memorable-website.github.io/)
+Visit our official website: [Memorable Website](https://memorable-io.github.io/memorable-website/)
 
 ## 🚀 Our Vision
 
